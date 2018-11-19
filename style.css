@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700|Open+Sans:300,300i,400,400i,700&subset=cyrillic');
 
-body {display: inline-block; background: #fafafa; color: #7e7e7e; font-size: 18px; font-family: 'Open Sans Condensed', sans-serif; font-weight: 300; margin:0; padding: 0;}
+body {display: inline-block; background: #fafafa; color: #7e7e7e; font-size: 18px; font-family: 'Open Sans Condensed', sans-serif; font-weight: 300; margin:0 auto; padding: 0;}
 h3 {color: #ffffff;  font-size: 27px;}
 a {text-decoration: none;color: #7e7e7e}
 
